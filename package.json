@@ -1,0 +1,29 @@
+{
+  "name": "@joebochill/git-switch",
+  "version": "0.0.1",
+  "description": "Switch between different .gitconfig files easily",
+  "preferGlobal": true,
+  "bin": {
+    "gitswitch": "./gitswitch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joebochill/git-switch.git"
+  },
+  "keywords": [
+    "gitconfig",
+    "switch",
+    "utility",
+    "shell",
+    "npm"
+  ],
+  "author": "Joseph Boyle <boyle.p.joseph@gmail.com> (https://www.josephpboyle.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "*",
+    "mkdirp": "*",
+    "tape": "*",
+    "xtend": "*"
+  },
+  "scripts": {}
+}
