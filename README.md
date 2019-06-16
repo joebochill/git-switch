@@ -97,8 +97,8 @@ Activating .gitconfig 'default'
 You may have to run gitswitch in a shell (cmd, PowerShell, Git Bash, etc) with elevated (Administrative) privileges to get it to run.
 
 ## Environment Variables
-* `NPMRC_STORE` - Path to directory of profiles. Default: `~/.gitconfigs/`
-* `NPMRC` - Path to the gitconfig file used by git. Default: `~/.gitconfig`
+* `GITSWITCH_STORE` - Path to directory of profiles. Default: `~/.gitconfigs/`
+* `GITSWITCH` - Path to the gitconfig file used by git. Default: `~/.gitconfig`
 
 ## License
 MIT. A copy is included with the source.
